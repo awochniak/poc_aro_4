@@ -1,0 +1,16 @@
+PODS:
+  - poc_aro_4 (0.1.0)
+
+DEPENDENCIES:
+  - poc_aro_4 (from `../`)
+
+EXTERNAL SOURCES:
+  poc_aro_4:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  poc_aro_4: 94bcc600b44839fb4dede94d15d3b5e3f738dacb
+
+PODFILE CHECKSUM: a06e8bb02a2a592113d2c791f5e67d36df5d23c1
+
+COCOAPODS: 1.10.0
